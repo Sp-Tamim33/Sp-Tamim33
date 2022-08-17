@@ -1,5 +1,5 @@
-### Hi there 👋, This is SP Tamim
-#### MERN Stack Developer
+# Hi there 👋, This is SP Tamim
+## MERN Stack Developer
 ![MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQGRSPML-E1zsA/profile-displaybackgroundimage-shrink_350_1400/0/1660719245027?e=1666224000&v=beta&t=1GfELV66UaCB1DpRI200SYkKv0pUnVbtSRXfAjYNKg8)
 
 Loves to learn new skills. Learning Blockchain development 

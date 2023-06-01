@@ -1,6 +1,6 @@
 # Hi there 👋, This is SP Tamim
 ## MERN Stack Developer
-![MERN Stack Developer](https://i.ibb.co/y0X7bBr/sss.jpg)
+![MERN Stack Developer](https://i.ibb.co/LR2gJR0/cover.jpg)
 
 Loves to learn new skills. Learning Blockchain development 
 and Ethical Hacking.
